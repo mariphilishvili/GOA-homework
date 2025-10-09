@@ -1,0 +1,6 @@
+color=input("Enter your favorite color: ")
+number=int(input("Enter your favorite number: "))
+animal=input("Enter your favorite animal: ")
+print("user's favorite color is", color)
+print("user's favorite number is", number)
+print("user's favori animal is", animal)

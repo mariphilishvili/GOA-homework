@@ -1,0 +1,7 @@
+print("list:")
+product1=input("apple")
+product2=input("milk")
+product3=input("bread")
+print(product1)
+print(product2)
+print(product3)
