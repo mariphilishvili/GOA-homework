@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<!--1)შექმენით გოას საიტზე რეგისტრაციის ფორმა , სადაც მომხმარებელი შეიყვანს სახელს გვარს მეილს ასაკს უნდა აირჩიოს GENDER- MALE FEMALE. გამოიყენეთ checkbox ტიპის ინფუთი რომლითაც აირჩევთ გოას რამდენიმე კურსს , თუ რომელზე გინდათ სწავლა,ბოლოს დაამატეთ submit ტიპის ინფუთი-->
+<h1>Welcome to goa</h1>
+<form>
+  <label for="name">name</label>
+  <input type="text" id="name" name="name">
+  <br>
+  <br>
+
+  <label for="surname">surname</label>
+  <input type="text" id="surname" name="surname">
+  <br>
+  <br>
+
+  <label for="e-mail">email</label>
+  <input type="email" id="e-mail" name="e-mail">
+  <br>
+  <br>
+
+  <label for="age">age</label>
+  <input type="number" id="age" name="age">
+  <br>
+  <br>
+
+  <p>choose your gender</p>
+  <label for="male">male</label>
+  <input type="radio" id="male" name="gender">
+  <br>
+  <label for="female">female</label>
+  <input type="radio" id="female" name="gender">
+  <br>
+  <br>
+
+  <p>choose your course</p>
+  <label for="web-development">web development</label>
+  <input type="checkbox" id="web-development" name="course" value="web development">
+  <label for="robotech">robotech development</label>
+  <br>
+  <input type="submit" value="register">
+</form>
+
+</body>
+</html>
