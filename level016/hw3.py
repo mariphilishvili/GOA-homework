@@ -1,0 +1,8 @@
+#გამოიტანეთ რიცხვები 50დან 100 მდე forloop/while loop ორივეთი
+i = 50
+while i < 100:
+    print(i)
+    i = i + 1
+
+for i in range(50, 101):
+    print(i)
