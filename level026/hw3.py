@@ -6,6 +6,6 @@ while total <= 100:
     numbers.append(num)
     total += num
     if total > 100:
-        print("break")
+        break
 print("list:",numbers)
 print("sum:",total)

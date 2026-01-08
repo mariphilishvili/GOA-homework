@@ -12,4 +12,4 @@ while True:
             numbers.pop(i+1)
     else:
         i += 1
-        print("საბოლოო სია:", numbers)
+        print("saboloo sia:", numbers)

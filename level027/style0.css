@@ -1,0 +1,14 @@
+p{
+    background-color: red;
+    font-size: 6px;
+}
+
+h1{
+    color: blue;
+    border: 2px solid yellow;
+}
+
+button{
+    text-align: right;
+    color: green;
+}
