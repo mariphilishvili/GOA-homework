@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    background-color: blue;
+}
+
+h3{
+    color: white;
+    background-color: blue; 
+}
+p{
+    color: green;
+    font-size: 18px;
+}
+button{
+    width: 57px;
+    height: 57px;
+    border: 2px solid red;
+    background-color: gray;
+}
