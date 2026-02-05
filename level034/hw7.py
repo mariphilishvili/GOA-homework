@@ -2,10 +2,10 @@
 # მაგალითად: თუ მოცემული გვაქვს სია [1, 3, 2, 5, 4],
 # მაშინ უნდა დავპრინტოთ 2, რადგან 3 > 1, და 5 > 2. გამოიყენე ინდექსები. გამოიძახეთ ფუნქცია.
 def newlist():
-    lst1 = [1, 3, 2, 5, 4]  
-    count = 0
-    for i in range(1, len(lst1)): 
-        if lst1[i] > lst1[i-1]:  
+    list1 = [1, 3, 2, 5, 4]  
+    count =0
+    for i in range(1, len(list1)): 
+        if list1[i]>list1[i-1]:  
             count += 1
     print(count)
 newlist()
