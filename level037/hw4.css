@@ -1,0 +1,17 @@
+ #red {
+    width: 150px;
+    height: 150px;
+    color: rgb(255, 0, 0); /* წითელი */
+}
+
+#green {
+    width: 150px;
+    height: 150px;
+    color: rgb(0, 255, 0); 
+}
+
+#blue {
+    width: 150px;
+    height: 150px;
+    color: rgb(0, 0, 255); /* ლურჯი */
+}

@@ -1,0 +1,15 @@
+.redDiv {
+      width: 150px;
+      height: 150px;
+      color: #FF0000; 
+    }
+.green{
+    width: 150px;
+    height: 150px;
+    color: #00FF00;
+    }
+.blue{
+    width: 150px;
+    height: 150px;
+    color: #0000FF; 
+}
