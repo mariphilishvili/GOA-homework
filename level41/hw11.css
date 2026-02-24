@@ -1,0 +1,9 @@
+a.link:link {
+  text-decoration: none;      
+  color: purple;               
+  background-color: white;    
+  font-family: 'Dancing Script', cursive; 
+}
+a.link-style:hover {
+  background-color: #E6E6FA;  
+}

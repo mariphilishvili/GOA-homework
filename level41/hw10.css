@@ -1,0 +1,8 @@
+.link {
+  background-color: white;
+  border: 2px solid gray; 
+}
+.link:hover {
+  background-color: gray; 
+  color: yellow
+}
